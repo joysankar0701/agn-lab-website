@@ -1,60 +1,74 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1051/0004-6361/202348172
+  title: "UV FeII emission model of HE 0413\u22124031 and its relation to broad-line\
+    \ time delays"
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  - "Michal Zaja\u010Dek"
+  - Swayamtrupta Panda
+  - Ashwani Pandey
+  - Raj Prince
+  - "Alberto Rodr\xEDguez-Ardila"
+  - Vikram Jaiswal
+  - "Bo\u017Cena Czerny"
+  - Krzysztof Hryniewicz
+  - Maciej Urbanowicz
+  - Piotr Trzcionkowski
+  - "Marzena \u015Aniegowska"
+  - "Zuzanna Fa\u0142kowska"
+  - "Mary Loli Mart\xEDnez-Aldama"
+  - Norbert Werner
+  publisher: Astronomy &amp; Astrophysics
+  date: '2024-03-01'
+  link: https://doi.org/g8227j
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1093/mnras/stad3804
+  title: "Dissecting the broad-band emission from \u03B3-ray blazar PKS 0735+178 in\
+    \ search of neutrinos"
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Raj Prince
+  - Saikat Das
+  - Nayantara Gupta
+  - Pratik Majumdar
+  - "Bo\u017Cena Czerny"
+  publisher: Monthly Notices of the Royal Astronomical Society
+  date: '2023-11-27'
+  link: https://doi.org/gtwb2j
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.3847/1538-4357/ad6f02
+  title: Modeling Multiband SEDs and Light Curves of BL Lacertae Using a Time-dependent
+    Shock-in-jet Model
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Rukaiya Khatoon
+  - "Markus B\xF6ttcher"
+  - Raj Prince
+  publisher: The Astrophysical Journal
+  date: '2024-10-01'
+  link: https://doi.org/g8227k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2410.23778
+  title: "Minute time scale variability in $\u03B3$-ray flare of BL Lacertae"
+  authors:
+  - Joysankar Majumdar
+  - Raj Prince
+  - Sakshi Maurya
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8227m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2410.23194
+  title: On the origin of multifrequency temporal and spectral variability in Ton
+    599
+  authors:
+  - Sakshi Maurya
+  - Raj Prince
+  - Joysankar Majumdar
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8227n
   plugin: sources.py
   file: sources.yaml
