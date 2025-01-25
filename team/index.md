@@ -13,16 +13,13 @@ Meet our young vibrant team
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
-{% include section.html dark=true %}
-
-
-{% include section.html %}
-
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
 {% include section.html dark=true %}
 
 Past Members
+
+{% include list.html data="members" component="portrait" filter="group == 'alum'" %}
 
 {% include section.html %}
 
