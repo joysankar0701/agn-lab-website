@@ -1,6 +1,6 @@
 ---
 name: Joysnkar Majumdar
-image: images/photo.jpg
+image: images/joysankar.jpg
 role: res-assistant
 aliases:
   - J. Majumdar
