@@ -10,12 +10,12 @@ nav:
 {% include section.html %}
 PI
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" filter="group != 'alum'" %}
+{% include list.html data="members" component="portrait"  filter="group == 'head'" %}
 
 {% include section.html %}
 Current Members
 
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" filter="group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="group != 'head'" filter="group != 'alum'" %}
 
 {% include section.html %}
 Past Members
