@@ -13,7 +13,7 @@ AGN Lab conducts research on Active Galactic Nuclei (AGN) and Blazars, aiming to
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="UV FeII emission model of HE 0413−4031 and its relation to broad-line time delays" style="rich" %}
 
 {% include section.html %}
 
