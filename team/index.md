@@ -10,7 +10,7 @@ nav:
 {% include section.html %}
 PI
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" filter="group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
 {% include section.html %}
 Current Members
