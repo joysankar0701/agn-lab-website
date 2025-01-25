@@ -14,20 +14,20 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="priraj@bhu.ac.in"
+  link="priraj@bhu.ac.in"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(+91) 9918012747"
+  link="+919918012747"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/uHecAzWzdbZu9Hs3A"
 %}
 
 {% include section.html %}
