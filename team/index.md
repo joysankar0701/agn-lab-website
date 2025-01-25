@@ -10,7 +10,7 @@ nav:
 {% include section.html %}
 PI
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
 {% include section.html %}
 Current Members
@@ -18,7 +18,6 @@ Current Members
 {% include list.html data="members" component="portrait" filter="role != 'pi'" filter="group != 'alum'" %}
 
 {% include section.html %}
-
 Past Members
 
 {% include list.html data="members" component="portrait" filter="group == 'alum'" %}
