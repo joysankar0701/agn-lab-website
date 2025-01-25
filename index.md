@@ -1,9 +1,9 @@
 ---
 ---
 
-# joysankar0701's Website
+# Welcome to AGN Lab
 
-An engaging 1-3 sentence description of your lab.
+AGN Lab focuses on studying Active Galactic Nuclei (AGN), exploring their emission mechanisms, variability, and impact on their host galaxies. The lab utilizes multi-wavelength observations and theoretical modeling to understand the physical processes driving AGN activity. Through collaborative research, AGN Lab aims to contribute to advancements in astrophysics and our understanding of the universe.
 
 {% include section.html %}
 
