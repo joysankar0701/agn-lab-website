@@ -4,6 +4,8 @@ image: images/raj-prince.jpeg
 role: principal-investigator
 affiliation: Banaras Hindu University
 aliases:
+  - Raj Prince
+  - raj prince
   - R. Prince
   - R Prince
 links:
