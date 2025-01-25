@@ -13,6 +13,18 @@ postdoc:
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
+  
+res-assistant:
+  icon: fa-solid fa-glasses
+  description: Research Assistant
+
+intern:
+  icon: fa-solid fa-glasses
+  description: Intern
+  
+postgrad:
+  icon: fa-solid fa-user-graduate
+  description: Master Student
 
 undergrad:
   icon: fa-solid fa-user-graduate
