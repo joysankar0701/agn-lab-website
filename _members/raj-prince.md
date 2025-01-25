@@ -1,6 +1,6 @@
 ---
 name: Raj Prince
-image: images/photo.jpg
+image: images/raj-prince.jpeg
 role: principal-investigator
 affiliation: Banaras Hindu University
 aliases:
