@@ -1,6 +1,6 @@
 ---
 name: Ravi Jangid
-image: images/image.jpg
+image: images/boy.png
 role: postgrad
 aliases:
   - R. Jangid
