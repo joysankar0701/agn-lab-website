@@ -1,6 +1,6 @@
 ---
 name: Tannu Mandal
-image: images/image.jpg
+image: images/girl.png
 role: postgrad
 aliases:
   - T. Mandal
