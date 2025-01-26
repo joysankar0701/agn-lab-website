@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Department of Physics, Institute of Science
-Banaras Hindu University, Varanasi 221005, India
+<center>Department of Physics, Institute of Science
+Banaras Hindu University, Varanasi 221005, India</center>
 
 {%
   include button.html
