@@ -1,6 +1,6 @@
 ---
 name: Mayank
-image: images/image.jpg
+image: images/boy.png
 affiliation: National Institute of Technology Rourkela
 role: intern
 group: alum
