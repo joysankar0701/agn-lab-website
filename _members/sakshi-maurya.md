@@ -1,6 +1,6 @@
 ---
 name: Sakshi Maurya
-image: images/photo.jpg
+image: images/girl.png
 role: res-assistant
 aliases:
   - S. Maurya
