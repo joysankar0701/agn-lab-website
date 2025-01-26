@@ -26,7 +26,7 @@ Explore our cutting-edge research in the field of astronomy and astrophysics.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/agn_mw.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ Explore projects or grants received by our group.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/sed.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ Meet our young vibrant talented research team members.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/group.svg"
   link="team"
   title="Our Team"
   text=text
