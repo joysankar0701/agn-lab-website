@@ -1,6 +1,6 @@
 ---
 name: Neetu Soan
-image: images/image.jpg
+image: images/girl.png
 affiliation: Pt. Ravishankar Shukla University
 role: intern
 group: alum
