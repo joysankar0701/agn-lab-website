@@ -1,5 +1,5 @@
 ---
-name: Neetu Soan
+name: Neetu Sahu
 image: images/girl.png
 affiliation: Pt. Ravishankar Shukla University
 role: intern
